@@ -1,0 +1,1295 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "_WUcedkYCHn1uTimXa7kc",
+      "type": "freedraw",
+      "x": 2969.6751211685078,
+      "y": 34391.09130065432,
+      "width": 263.2764095238963,
+      "height": 246.69724577620218,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAL",
+      "roundness": null,
+      "seed": 485165851,
+      "version": 36,
+      "versionNonce": 944614668,
+      "isDeleted": true,
+      "boundElements": [],
+      "updated": 1786596117100,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          7.996381228789687,
+          -6.669574269340956
+        ],
+        [
+          21.335529767482512,
+          -17.33733915308403
+        ],
+        [
+          32.00329465122377,
+          -25.333720381873718
+        ],
+        [
+          41.338329330166744,
+          -33.33602485602023
+        ],
+        [
+          69.36712634841479,
+          -56.02797780971741
+        ],
+        [
+          98.16594526276822,
+          -80.49098112446518
+        ],
+        [
+          120.54396621267097,
+          -104.24911824199808
+        ],
+        [
+          161.17742934563375,
+          -139.23772855197603
+        ],
+        [
+          178.51476849872142,
+          -160.5732583194549
+        ],
+        [
+          187.8498031776644,
+          -175.24513706294965
+        ],
+        [
+          198.51756806140565,
+          -185.91290194668545
+        ],
+        [
+          218.52036762409034,
+          -201.91751089497848
+        ],
+        [
+          225.18994189343675,
+          -207.2484317141716
+        ],
+        [
+          229.18813250783205,
+          -209.919815369125
+        ],
+        [
+          231.85951616278317,
+          -211.25254557392327
+        ],
+        [
+          231.85951616278317,
+          -212.53196657052467
+        ],
+        [
+          233.13893715938957,
+          -212.53196657052467
+        ],
+        [
+          237.1371277737844,
+          -217.8628873897178
+        ],
+        [
+          239.80258818338098,
+          -220.5342710446712
+        ],
+        [
+          241.13531838817926,
+          -220.5342710446712
+        ],
+        [
+          242.468048592978,
+          -221.86107800411264
+        ],
+        [
+          243.80077879777627,
+          -224.5265384137092
+        ],
+        [
+          249.13169961696985,
+          -229.86338247825915
+        ],
+        [
+          253.13581347671925,
+          -235.19430329745228
+        ],
+        [
+          257.13400409111455,
+          -239.19841715720395
+        ],
+        [
+          258.46673429591283,
+          -241.8638775668005
+        ],
+        [
+          259.7994645007111,
+          -243.1966077715988
+        ],
+        [
+          259.7994645007111,
+          -244.52341473104025
+        ],
+        [
+          260.9604205902242,
+          -244.52341473104025
+        ],
+        [
+          262.11545343438274,
+          -245.54221293204318
+        ],
+        [
+          262.11545343438274,
+          -246.69724577620218
+        ],
+        [
+          263.2764095238963,
+          -246.69724577620218
+        ],
+        [
+          263.2764095238963,
+          -246.69724577620218
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "strokeOptions": {
+        "variability": "constant",
+        "streamline": 0.5
+      }
+    },
+    {
+      "id": "Jj7-IZUE0HzctzVCA-3Qt",
+      "type": "freedraw",
+      "x": 2964.136886761901,
+      "y": 34170.0535537545,
+      "width": 21.335529767482512,
+      "height": 396.21772826387314,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAM",
+      "roundness": null,
+      "seed": 1101437493,
+      "version": 44,
+      "versionNonce": 2121824692,
+      "isDeleted": true,
+      "boundElements": [],
+      "updated": 1786596117100,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1.3327302047982812,
+          8.002304474146513
+        ],
+        [
+          3.9981906143948436,
+          32.009217896578775
+        ],
+        [
+          5.330920819193125,
+          54.67747786886321
+        ],
+        [
+          6.663651023991406,
+          73.34754722674552
+        ],
+        [
+          8.002304474144694,
+          112.0204161473157
+        ],
+        [
+          8.002304474144694,
+          128.02502509560873
+        ],
+        [
+          6.663651023991406,
+          144.02371079854493
+        ],
+        [
+          5.330920819193125,
+          174.70019849032542
+        ],
+        [
+          3.9981906143948436,
+          189.36615398845606
+        ],
+        [
+          3.9981906143948436,
+          198.70118866740086
+        ],
+        [
+          3.9981906143948436,
+          216.03852782049216
+        ],
+        [
+          6.663651023991406,
+          230.71040656397963
+        ],
+        [
+          9.335034678942975,
+          244.04363185731927
+        ],
+        [
+          12.000495088539537,
+          253.37866653626406
+        ],
+        [
+          13.333225293337819,
+          265.37916162479814
+        ],
+        [
+          15.998685702934381,
+          274.71419630374294
+        ],
+        [
+          18.67006935788595,
+          286.7146913922843
+        ],
+        [
+          20.00279956268423,
+          305.3847607501666
+        ],
+        [
+          21.335529767482512,
+          314.7197954291114
+        ],
+        [
+          21.335529767482512,
+          324.0548301080562
+        ],
+        [
+          21.335529767482512,
+          330.7244043774044
+        ],
+        [
+          21.335529767482512,
+          334.7285182371488
+        ],
+        [
+          21.335529767482512,
+          340.05943905634194
+        ],
+        [
+          21.335529767482512,
+          348.06174353048846
+        ],
+        [
+          21.335529767482512,
+          353.3985875950384
+        ],
+        [
+          21.335529767482512,
+          357.39677820943325
+        ],
+        [
+          21.335529767482512,
+          360.0622386190298
+        ],
+        [
+          21.335529767482512,
+          364.0663524787815
+        ],
+        [
+          21.335529767482512,
+          366.73181288837804
+        ],
+        [
+          21.335529767482512,
+          369.3972732979746
+        ],
+        [
+          21.335529767482512,
+          373.4013871577263
+        ],
+        [
+          21.335529767482512,
+          377.3995777721211
+        ],
+        [
+          21.335529767482512,
+          382.7364218366638
+        ],
+        [
+          21.335529767482512,
+          386.73461245105864
+        ],
+        [
+          21.335529767482512,
+          389.4000728606552
+        ],
+        [
+          21.335529767482512,
+          392.0714565156086
+        ],
+        [
+          21.335529767482512,
+          393.40418672040687
+        ],
+        [
+          21.335529767482512,
+          394.64806824488915
+        ],
+        [
+          21.335529767482512,
+          395.4299366316991
+        ],
+        [
+          21.335529767482512,
+          396.21772826387314
+        ],
+        [
+          21.335529767482512,
+          396.21772826387314
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "strokeOptions": {
+        "variability": "constant",
+        "streamline": 0.5
+      }
+    },
+    {
+      "id": "vDvsKiwrDJi6Esd3V7qxd",
+      "type": "freedraw",
+      "x": 2981.9717785247803,
+      "y": 34570.026619573226,
+      "width": 461.2549622580282,
+      "height": 36.28580104264256,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAN",
+      "roundness": null,
+      "seed": 869262843,
+      "version": 33,
+      "versionNonce": 514599820,
+      "isDeleted": true,
+      "boundElements": [],
+      "updated": 1786596117100,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          12.421045508720454,
+          -1.2379582791254506
+        ],
+        [
+          47.05426109741347,
+          -1.2379582791254506
+        ],
+        [
+          80.39028595343552,
+          2.760232335269393
+        ],
+        [
+          112.99775163083541,
+          4.1048090307740495
+        ],
+        [
+          133.04201391100196,
+          4.1048090307740495
+        ],
+        [
+          177.2649637288887,
+          -2.843157770235848
+        ],
+        [
+          195.93503308677464,
+          -5.5086181798324105
+        ],
+        [
+          211.93964203506403,
+          -9.51273203958408
+        ],
+        [
+          238.61201586709467,
+          -14.843652858777205
+        ],
+        [
+          253.27797136523122,
+          -18.847766718528874
+        ],
+        [
+          266.6171199039236,
+          -22.845957332923717
+        ],
+        [
+          295.9549541455517,
+          -30.84826180707023
+        ],
+        [
+          314.62502350343766,
+          -32.18099201186851
+        ],
+        [
+          327.9582487967755,
+          -32.18099201186851
+        ],
+        [
+          341.2973973354683,
+          -32.18099201186851
+        ],
+        [
+          362.6329271029508,
+          -32.18099201186851
+        ],
+        [
+          377.29888260108737,
+          -30.84826180707023
+        ],
+        [
+          389.3053009349819,
+          -30.84826180707023
+        ],
+        [
+          405.30398663791675,
+          -30.84826180707023
+        ],
+        [
+          414.6390213168597,
+          -30.84826180707023
+        ],
+        [
+          422.6413257910044,
+          -30.84826180707023
+        ],
+        [
+          431.9763604699474,
+          -30.84826180707023
+        ],
+        [
+          437.3132045344955,
+          -30.84826180707023
+        ],
+        [
+          442.64412535368865,
+          -30.84826180707023
+        ],
+        [
+          447.9809694182368,
+          -30.84826180707023
+        ],
+        [
+          455.9832738923815,
+          -30.84826180707023
+        ],
+        [
+          458.64873430197804,
+          -30.84826180707023
+        ],
+        [
+          459.97554126142177,
+          -30.84826180707023
+        ],
+        [
+          461.2549622580282,
+          -29.568840810461552
+        ],
+        [
+          461.2549622580282,
+          -29.568840810461552
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "strokeOptions": {
+        "variability": "constant",
+        "streamline": 0.5
+      }
+    },
+    {
+      "id": "lFClgvRaWQBmbS0xLWBHj",
+      "type": "freedraw",
+      "x": 3106.5376283332653,
+      "y": 34268.059571392696,
+      "width": 14.57118357246145,
+      "height": 23.669288437216892,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAO",
+      "roundness": null,
+      "seed": 572099899,
+      "version": 35,
+      "versionNonce": 304554804,
+      "isDeleted": true,
+      "boundElements": [],
+      "updated": 1786596117100,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1.4985810747284631,
+          0.7522521600403707
+        ],
+        [
+          6.592572079735874,
+          3.299247662544076
+        ],
+        [
+          11.929416144284005,
+          3.299247662544076
+        ],
+        [
+          13.262146349082286,
+          3.299247662544076
+        ],
+        [
+          14.57118357246145,
+          3.299247662544076
+        ],
+        [
+          14.57118357246145,
+          2.3515284058012185
+        ],
+        [
+          13.238453367663169,
+          1.3919626583447098
+        ],
+        [
+          11.905723162864888,
+          0.05923245354642859
+        ],
+        [
+          7.907532548470044,
+          -1.2794209966086783
+        ],
+        [
+          5.236148893518475,
+          -1.2794209966086783
+        ],
+        [
+          3.903418688720194,
+          -1.2794209966086783
+        ],
+        [
+          2.5766117292769195,
+          -1.2794209966086783
+        ],
+        [
+          1.421578885117924,
+          -1.2794209966086783
+        ],
+        [
+          1.421578885117924,
+          -2.0435196473627
+        ],
+        [
+          2.7543090899162053,
+          -5.775164220794977
+        ],
+        [
+          4.0870392947144865,
+          -9.779278080546646
+        ],
+        [
+          5.419769499513222,
+          -13.77746869494149
+        ],
+        [
+          5.419769499513222,
+          -17.775659309336334
+        ],
+        [
+          5.419769499513222,
+          -19.114312759484164
+        ],
+        [
+          5.419769499513222,
+          -20.370040774672816
+        ],
+        [
+          5.419769499513222,
+          -18.64637637646956
+        ],
+        [
+          5.419769499513222,
+          -15.980915966872999
+        ],
+        [
+          5.419769499513222,
+          -13.315455557276437
+        ],
+        [
+          6.752499704311504,
+          -9.311341697524767
+        ],
+        [
+          6.752499704311504,
+          -6.645881287928205
+        ],
+        [
+          6.752499704311504,
+          -5.313151083129924
+        ],
+        [
+          6.752499704311504,
+          -4.0337300865285215
+        ],
+        [
+          6.752499704311504,
+          -3.1333967926184414
+        ],
+        [
+          6.752499704311504,
+          -2.375221387221245
+        ],
+        [
+          7.386286957259927,
+          -2.375221387221245
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "strokeOptions": {
+        "variability": "constant",
+        "streamline": 0.5
+      }
+    },
+    {
+      "id": "BWOtlO9LLgft35kXLWlNK",
+      "type": "freedraw",
+      "x": 3143.91922976652,
+      "y": 34284.47880751581,
+      "width": 52.69319067504921,
+      "height": 127.04176636673219,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAP",
+      "roundness": null,
+      "seed": 346592789,
+      "version": 34,
+      "versionNonce": 1639373324,
+      "isDeleted": true,
+      "boundElements": [],
+      "updated": 1786596117100,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          9.133644336884572,
+          -3.4236358149937587
+        ],
+        [
+          26.470983489972696,
+          -7.421826429388602
+        ],
+        [
+          35.80601816891567,
+          -7.421826429388602
+        ],
+        [
+          41.14286223346335,
+          -7.421826429388602
+        ],
+        [
+          43.808322643060364,
+          -6.089096224590321
+        ],
+        [
+          45.141052847858646,
+          -4.75636601979204
+        ],
+        [
+          47.80651325745521,
+          4.578668659152754
+        ],
+        [
+          45.141052847858646,
+          33.91650290077814
+        ],
+        [
+          39.804208783310514,
+          47.24972819411778
+        ],
+        [
+          35.80601816891567,
+          55.25203266826429
+        ],
+        [
+          31.807827554520372,
+          60.58887673281424
+        ],
+        [
+          29.136443899569258,
+          63.254337142410805
+        ],
+        [
+          29.136443899569258,
+          64.58706734720909
+        ],
+        [
+          29.136443899569258,
+          63.58603888226935
+        ],
+        [
+          34.26005113134943,
+          59.69446668426099
+        ],
+        [
+          40.92370215534129,
+          55.69035282450932
+        ],
+        [
+          43.58916256493785,
+          54.35762261971104
+        ],
+        [
+          46.02953965105735,
+          54.35762261971104
+        ],
+        [
+          47.36226985585563,
+          55.68442957915249
+        ],
+        [
+          50.02773026545265,
+          59.68854343890416
+        ],
+        [
+          52.69319067504921,
+          70.35630832264724
+        ],
+        [
+          52.69319067504921,
+          79.69134300159203
+        ],
+        [
+          47.36226985585563,
+          90.35910788532783
+        ],
+        [
+          42.02542579130795,
+          101.0268727690709
+        ],
+        [
+          35.35585152196154,
+          110.3619074480157
+        ],
+        [
+          31.357660907566242,
+          113.02736785761226
+        ],
+        [
+          28.69220049796968,
+          115.69875151256565
+        ],
+        [
+          26.020816843018565,
+          118.36421192216221
+        ],
+        [
+          24.765088827830823,
+          119.61993993734359
+        ],
+        [
+          23.53305379406129,
+          119.61993993734359
+        ],
+        [
+          23.53305379406129,
+          119.61993993734359
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "strokeOptions": {
+        "variability": "constant",
+        "streamline": 0.5
+      }
+    },
+    {
+      "id": "bq5AunVhvqChWpGHxV41L",
+      "type": "freedraw",
+      "x": 3250.6561110574803,
+      "y": 34373.830963690845,
+      "width": 2.6654604095965624,
+      "height": 53.19074328483839,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAQ",
+      "roundness": null,
+      "seed": 682195195,
+      "version": 12,
+      "versionNonce": 1564777652,
+      "isDeleted": true,
+      "boundElements": [],
+      "updated": 1786596117100,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          5.24799538422667
+        ],
+        [
+          0,
+          9.181030299718259
+        ],
+        [
+          0,
+          18.516064978663053
+        ],
+        [
+          0,
+          31.84929027200269
+        ],
+        [
+          -1.3327302047982812,
+          39.8515947461492
+        ],
+        [
+          -1.3327302047982812,
+          45.18843881069188
+        ],
+        [
+          -2.6654604095965624,
+          50.519359629885
+        ],
+        [
+          -2.6654604095965624,
+          53.19074328483839
+        ],
+        [
+          -2.6654604095965624,
+          53.19074328483839
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "strokeOptions": {
+        "variability": "constant",
+        "streamline": 0.5
+      }
+    },
+    {
+      "id": "VxXiXCOealsHe2_sjJoCt",
+      "type": "freedraw",
+      "x": 3301.0510825349215,
+      "y": 34270.92642214435,
+      "width": 56.140519471461175,
+      "height": 108.31246455529617,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAR",
+      "roundness": null,
+      "seed": 666445269,
+      "version": 25,
+      "versionNonce": 2087172236,
+      "isDeleted": true,
+      "boundElements": [],
+      "updated": 1786596117100,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          5.088067759652404,
+          3.0504713576447102
+        ],
+        [
+          18.279135164478703,
+          8.29846674187138
+        ],
+        [
+          27.614169843421678,
+          9.631196946669661
+        ],
+        [
+          34.28374411276809,
+          8.29846674187138
+        ],
+        [
+          42.286048586912784,
+          5.633006332274817
+        ],
+        [
+          44.95150899650935,
+          4.300276127476536
+        ],
+        [
+          46.278315955953076,
+          4.300276127476536
+        ],
+        [
+          47.36819310121018,
+          4.300276127476536
+        ],
+        [
+          48.309989112601215,
+          4.300276127476536
+        ],
+        [
+          49.47686844746886,
+          4.300276127476536
+        ],
+        [
+          54.80778926666244,
+          13.629387561064505
+        ],
+        [
+          56.140519471461175,
+          25.62988264960586
+        ],
+        [
+          54.80778926666244,
+          40.301761393100605
+        ],
+        [
+          49.47094520211476,
+          58.97183075098292
+        ],
+        [
+          41.46864072797007,
+          73.63778624912084
+        ],
+        [
+          34.80498970397775,
+          84.30555113286391
+        ],
+        [
+          28.135415434631796,
+          92.30785560701042
+        ],
+        [
+          20.1331109604871,
+          101.64289028594794
+        ],
+        [
+          16.134920346091803,
+          104.3083506955445
+        ],
+        [
+          13.463536691140689,
+          106.97973435049789
+        ],
+        [
+          8.13261587194711,
+          108.31246455529617
+        ],
+        [
+          8.13261587194711,
+          108.31246455529617
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "strokeOptions": {
+        "variability": "constant",
+        "streamline": 0.5
+      }
+    },
+    {
+      "id": "xoirQC9ZqTu6cVGc_qsnx",
+      "type": "freedraw",
+      "x": 3305.185507792474,
+      "y": 34261.4610760676,
+      "width": 59.09621890343578,
+      "height": 58.035957984946435,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAS",
+      "roundness": null,
+      "seed": 478600469,
+      "version": 11,
+      "versionNonce": 695658036,
+      "isDeleted": true,
+      "boundElements": [],
+      "updated": 1786596117100,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          12.421045508720454,
+          -8.695324180640455
+        ],
+        [
+          23.08881039246171,
+          -18.030358859577973
+        ],
+        [
+          40.42614954554938,
+          -38.03315842226584
+        ],
+        [
+          45.75707036474296,
+          -44.69680944625725
+        ],
+        [
+          51.09391442929109,
+          -50.0336535108072
+        ],
+        [
+          57.7634886986375,
+          -56.703227780148154
+        ],
+        [
+          59.09621890343578,
+          -58.035957984946435
+        ],
+        [
+          59.09621890343578,
+          -58.035957984946435
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "strokeOptions": {
+        "variability": "constant",
+        "streamline": 0.5
+      }
+    },
+    {
+      "id": "Gs5X2nfN_kNBOHyZ9-WdO",
+      "type": "text",
+      "x": 3655.2078455353553,
+      "y": 33922.14204268059,
+      "width": 356.982151034606,
+      "height": 350,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAU",
+      "roundness": null,
+      "seed": 31778805,
+      "version": 174,
+      "versionNonce": 2054735628,
+      "isDeleted": true,
+      "boundElements": [],
+      "updated": 1786596117100,
+      "link": null,
+      "locked": false,
+      "text": "Slope is M\n\ny = mx + c\n\nlet's say m = 2\n\ny = 2x + c\n\ny2 - y1 = m(x2 - x1)\n\n5 - y = m (3 - x)\n\ny = 5 - 6 + 2x\ny = 2x - 1",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Slope is M\n\ny = mx + c\n\nlet's say m = 2\n\ny = 2x + c\n\ny2 - y1 = m(x2 - x1)\n\n5 - y = m (3 - x)\n\ny = 5 - 6 + 2x\ny = 2x - 1",
+      "autoResize": false,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "KFX2GiIoUBl9BP7TLJsPN",
+      "type": "text",
+      "x": 2494.1510608511053,
+      "y": 33916.47746781987,
+      "width": 1588.838623046875,
+      "height": 775,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAV",
+      "roundness": null,
+      "seed": 1617167756,
+      "version": 2438,
+      "versionNonce": 115143436,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1786598616304,
+      "link": null,
+      "locked": false,
+      "text": "Linear Algebra\n\nVector:\n    - In computer science perspective, an ordered list of numbers\n    - In physics, an arrow which is solely defined by it's length and direction. It doesn't matter where it starts\n    - In LA, an arrow that is anchored at origin. The coordiantes tell you how far to step along each direction to reach the arrow's tip.\n\nScalar: Any real number, C. when multiplied with vector, it can stretch, shrink or reverse direction of the vector.\n\nVector Addition: Placing vectors tip-to-tail to get the combined effect of the addition (v + w).\n\nLinear Dependence: A set of vectors is called Linearly dependent, iff atleast one vector can be represented as sum of scaled versions of other vectors in the set.\n    i.e {v1, v2, v3} is linearly dependent, iff c1v1 = c2v2 + c3v3, where c1 != 0.\n\n-> If a set of vectors is not linearly dependent, then it is linearly independent.\n\n-> c1v1 + c2v2 + c3v3 + ... + cnvn = 0.\n    {v1, v2, v3, ... , vn} is Linearly dependent iff atleast one of ci != 0.\n    {v1, v2, v3, ... , vn} is Linearly Independent iff the trivial solution c1 = c2 = ... = cn is the only trivial solution that satisifies the equation.\n\nSpan: Span of a set of vectors is the set of all possible vectors that can be represented as linear combinations.\n\n-> Span of a single vector in 2D Space: A 1D line passing through origin.\n-> Span of two non-collinear vectors in 2D Space: The entire 2D space (R2)\n-> Span of two collinear vectors in 2D Space: A 1D line passing through origin.\n\nBasis: Basis of a vector space is the set of vectors that are linearly independent and can span entire space.\n\nDimension: is the number of vectors in the basis of a space. R2 has 2 dimension, coz, the basis has 2 vectors.\n\nUnit Vectors: The set of n vectors in Rn space, where in each vector only only co-ordinate has a value 1 and rest has a value 0. They also form a basis.",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Linear Algebra\n\nVector:\n    - In computer science perspective, an ordered list of numbers\n    - In physics, an arrow which is solely defined by it's length and direction. It doesn't matter where it starts\n    - In LA, an arrow that is anchored at origin. The coordiantes tell you how far to step along each direction to reach the arrow's tip.\n\nScalar: Any real number, C. when multiplied with vector, it can stretch, shrink or reverse direction of the vector.\n\nVector Addition: Placing vectors tip-to-tail to get the combined effect of the addition (v + w).\n\nLinear Dependence: A set of vectors is called Linearly dependent, iff atleast one vector can be represented as sum of scaled versions of other vectors in the set.\n    i.e {v1, v2, v3} is linearly dependent, iff c1v1 = c2v2 + c3v3, where c1 != 0.\n\n-> If a set of vectors is not linearly dependent, then it is linearly independent.\n\n-> c1v1 + c2v2 + c3v3 + ... + cnvn = 0.\n    {v1, v2, v3, ... , vn} is Linearly dependent iff atleast one of ci != 0.\n    {v1, v2, v3, ... , vn} is Linearly Independent iff the trivial solution c1 = c2 = ... = cn is the only trivial solution that satisifies the equation.\n\nSpan: Span of a set of vectors is the set of all possible vectors that can be represented as linear combinations.\n\n-> Span of a single vector in 2D Space: A 1D line passing through origin.\n-> Span of two non-collinear vectors in 2D Space: The entire 2D space (R2)\n-> Span of two collinear vectors in 2D Space: A 1D line passing through origin.\n\nBasis: Basis of a vector space is the set of vectors that are linearly independent and can span entire space.\n\nDimension: is the number of vectors in the basis of a space. R2 has 2 dimension, coz, the basis has 2 vectors.\n\nUnit Vectors: The set of n vectors in Rn space, where in each vector only only co-ordinate has a value 1 and rest has a value 0. They also form a basis.",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "mBL_P5ymCgllIuxMIfdK-",
+      "type": "frame",
+      "x": 2478.1510608511053,
+      "y": 33900.47746781987,
+      "width": 1308.7589111328125,
+      "height": 182,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAW",
+      "roundness": null,
+      "seed": 64861364,
+      "version": 3,
+      "versionNonce": 398287756,
+      "isDeleted": true,
+      "boundElements": null,
+      "updated": 1786596396801,
+      "link": null,
+      "locked": false,
+      "name": null
+    },
+    {
+      "id": "xdcNU5z6G7HOh6I8-o8Ew",
+      "type": "text",
+      "x": 2493.7147348620274,
+      "y": 34747.419571816325,
+      "width": 1806.658447265625,
+      "height": 775,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAX",
+      "roundness": null,
+      "seed": 418789044,
+      "version": 3981,
+      "versionNonce": 1064678284,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1786606112654,
+      "link": null,
+      "locked": false,
+      "text": "Matrices:\n\n-> See Matrices from a different perspective. Consider a 2D vector space.\n-> A matrix of such space, represents the 2 basis vectors as the 2 columns.\n-> Generally, the initial and smallest basis vectors of n-D vector space are the unit vectors.\n-> When you take an arbitrary vector in a 2D space and multiply it with the unit Vector matrix, the result will be a vector which is linear combination of the unit\n    vectors. Precisely, if [x, y] is the vector, then resultant vector is x[1, 0] + y[0, 1]. \n-> This resultant vector is same as the one which you will plot in a co-ordinate system. \n\n-> But, imagine the basis vectors are not unit vectors.  This represents a TRANSFORMED 2d space, where any vector must be represented as the linear combination\n    of the new basis vectors.\n-> Imagine the transformation like this. Move the unit vector [1, 0] to the point [2, 3] (one of the new basis vectors). The moving of the unit vector, also transforms \n    the grid lines that are in the direction of the unit vector. So imagine the grid lines move, in this case x-axis lines, such that they all end up straight and parallel to each other \n    and equi-distant from each other. Do the same with y-axis also.\n-> The same vector [x, y], can be plotted in this new transformed space, using the same strategy of finding the linear combination of [x, y] with respect to the new basis vectors.\n\n-> So, in summary, a nxn matrix, represents the n basis vectors of the space they reside in. A given vector generally follows the typical co-ordinate system where the basis\n    vectors are unit vectors. When you multiply such a vector with a matrix, you are basically asking where does this vector end up in the new transformed space represented by the new\n    basis vectors. i.e. what is the linear transformation of the given vector w.r.t the new space represented by the basis vectors in the matrix.\n\n-> The transformations where the origin stays fixed and the grid lines of respective direction stay parallel to each other and the grid cells are of same size, such a transformation\n    is called LINEAR TRANSFORMATION. The same rules and concepts apply to any dimensions.\n\n-> Now, we can do multiple transformations of the space we are considering. if, A, B, C each represent the matrices, they each represent a different transformed space.\n    You can apply each of them one after another. This is given mathematically, by Matrix Multiplication, ABC.\n-> The order of applying multiple transformation DOES MATTER. For example, rotaing the space by 90 degree and then slanting the y-axis to right is not going to be \n    same as the opposite order of doing. \n-> That is why, we say AB != BA. It is considered that, the order of operation is from right to left. So, Matrix multiplication is ASSOCIATIVE but NOT COMMUTATIVE.\n\n\n",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Matrices:\n\n-> See Matrices from a different perspective. Consider a 2D vector space.\n-> A matrix of such space, represents the 2 basis vectors as the 2 columns.\n-> Generally, the initial and smallest basis vectors of n-D vector space are the unit vectors.\n-> When you take an arbitrary vector in a 2D space and multiply it with the unit Vector matrix, the result will be a vector which is linear combination of the unit\n    vectors. Precisely, if [x, y] is the vector, then resultant vector is x[1, 0] + y[0, 1]. \n-> This resultant vector is same as the one which you will plot in a co-ordinate system. \n\n-> But, imagine the basis vectors are not unit vectors.  This represents a TRANSFORMED 2d space, where any vector must be represented as the linear combination\n    of the new basis vectors.\n-> Imagine the transformation like this. Move the unit vector [1, 0] to the point [2, 3] (one of the new basis vectors). The moving of the unit vector, also transforms \n    the grid lines that are in the direction of the unit vector. So imagine the grid lines move, in this case x-axis lines, such that they all end up straight and parallel to each other \n    and equi-distant from each other. Do the same with y-axis also.\n-> The same vector [x, y], can be plotted in this new transformed space, using the same strategy of finding the linear combination of [x, y] with respect to the new basis vectors.\n\n-> So, in summary, a nxn matrix, represents the n basis vectors of the space they reside in. A given vector generally follows the typical co-ordinate system where the basis\n    vectors are unit vectors. When you multiply such a vector with a matrix, you are basically asking where does this vector end up in the new transformed space represented by the new\n    basis vectors. i.e. what is the linear transformation of the given vector w.r.t the new space represented by the basis vectors in the matrix.\n\n-> The transformations where the origin stays fixed and the grid lines of respective direction stay parallel to each other and the grid cells are of same size, such a transformation\n    is called LINEAR TRANSFORMATION. The same rules and concepts apply to any dimensions.\n\n-> Now, we can do multiple transformations of the space we are considering. if, A, B, C each represent the matrices, they each represent a different transformed space.\n    You can apply each of them one after another. This is given mathematically, by Matrix Multiplication, ABC.\n-> The order of applying multiple transformation DOES MATTER. For example, rotaing the space by 90 degree and then slanting the y-axis to right is not going to be \n    same as the opposite order of doing. \n-> That is why, we say AB != BA. It is considered that, the order of operation is from right to left. So, Matrix multiplication is ASSOCIATIVE but NOT COMMUTATIVE.\n\n\n",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff",
+    "lockedMultiSelections": {}
+  },
+  "files": {}
+}
