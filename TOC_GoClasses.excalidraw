@@ -1,0 +1,53 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "ab5ZuhcNQ-dwK--QbAHVo",
+      "type": "text",
+      "x": 2492.153588874439,
+      "y": 43742.484528666966,
+      "width": 1593.8587646484375,
+      "height": 325,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#1e1e1e",
+      "fillStyle": "cross-hatch",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAb",
+      "roundness": null,
+      "seed": 1303393543,
+      "version": 1349,
+      "versionNonce": 857109383,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1788431704693,
+      "link": null,
+      "locked": false,
+      "text": "Theory of Computation:\n\n- Computation is nothing but the processing of doing some work/calculation.\n- Consider everything a problem. A problem can be thought of as a function. We define what the output is given an input.\n- A problem is solvable if there exists an algorithm which gives an output for every input.\n- Now, if there is an algorithm for a problem, we make a program out of it and Execute the program.\n- The problems which can be computed/executed are the solvable problems. Problems which don't have any algorithm cannot be computed and hence can't be solved.\n\n- Theory of Computation, talks about whether a problem is solvable/computable or not.\n- If a problem is computable/solvable, we are also interested in WHAT KIND OF problem it is. i.e. we dig more into properties like\n  how much time/space it takes and classify problems based on the properties.\n\n",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Theory of Computation:\n\n- Computation is nothing but the processing of doing some work/calculation.\n- Consider everything a problem. A problem can be thought of as a function. We define what the output is given an input.\n- A problem is solvable if there exists an algorithm which gives an output for every input.\n- Now, if there is an algorithm for a problem, we make a program out of it and Execute the program.\n- The problems which can be computed/executed are the solvable problems. Problems which don't have any algorithm cannot be computed and hence can't be solved.\n\n- Theory of Computation, talks about whether a problem is solvable/computable or not.\n- If a problem is computable/solvable, we are also interested in WHAT KIND OF problem it is. i.e. we dig more into properties like\n  how much time/space it takes and classify problems based on the properties.\n\n",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff",
+    "lockedMultiSelections": {}
+  },
+  "files": {}
+}
